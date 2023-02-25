@@ -1,0 +1,104 @@
+body {
+    font-size: 8pt;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+#logo {
+    display: block;
+    text-align: center;
+    margin: 20px;
+}
+#logo img {
+    max-width: 200px;
+}
+#subtitle {
+    background-color: #fdfbf1;
+    display: block;
+    text-align: center;
+    font-size: 8pt;
+    font-weight: bold;
+    color: #004d4c;
+    padding: 5px;
+    border-top: solid 1px;
+    border-color: #ffd877;
+}
+
+header {
+    margin-bottom: 40px;
+}
+
+main {
+    text-align: center;
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+p {
+    text-align: left;
+}
+
+#focacca {
+    width: 100%;
+}
+
+h2 {
+    border-bottom: solid 1px;
+    border-color: #c4f3f2;
+    font-size: 12pt;
+    font-weight: 500;
+    padding-bottom: 10px;
+    margin-bottom: 10px;
+}
+
+h3 {
+    font-size: 9pt;
+    margin-top: 20px;
+}
+h4 {
+    color: #b5460f;
+    font-size: 8pt;
+}
+
+h5 {
+    color: #999999;
+    font-weight: 200;
+}
+
+#featured {
+    text-align: left;
+    padding-left: 10px;
+    border-left: solid 1px;
+    border-color: #ffd877;
+    margin-bottom: 40px;
+}
+
+#featured h4 {
+    margin-bottom: 0px;
+}
+
+#featured p {
+    margin-top: 0px;
+}
+
+a:link {
+    color: #107777;
+}
+
+#ingredients {
+    text-align: left;
+}
+
+#method {
+    text-align: left;
+}
+
+#method p {
+    margin-left: -15px;
+}
+
+
+li {
+    margin-bottom: 10px;
+    margin-left: -15px;
+}
